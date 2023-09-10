@@ -1,4 +1,4 @@
-<p align="center"><img width="100%" height="60%" src="./assets/readme_profile_header.jpeg" /></p>
+<p align="center"><img width="70%" src="./assets/readme_profile_header.jpeg" /></p>
 <br/>
 
 ✨I'm a Computer science student and Flutter developer 💻✨
